@@ -6,7 +6,7 @@
 
 
 ```bash
-bash <(curl -Lso- https://raw.githubusercontent.com/ptxx/CU-superspeed/master/superspeed.sh)
+bash <(curl -Lso- https://raw.githubusercontent.com/ptxx/Superspeed/master/superspeed.sh)
 ```
 
 
